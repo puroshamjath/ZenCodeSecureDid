@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\39f0b15523f3ccf2a6dfc6342db615f8096e1b3c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\0bc332c9caf71b662541e573b3dd36291a1849e4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\f3694c182a278d6e5cd4eada0d498ef5011b135d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\789ed259a8ff8e309ed1e983d1791d75f7f4261f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\9b96ca29c78d55ef1d91f36d1d634d6f3a213a2f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\d6a34ba8a5db27cfac7b342f9b701179e96abe5c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\925baa32e58f83465e1cdc9ee493139b232446f2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\af19902ab183c40a9e8d6955b4d5a18b343f6975\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\a5c296941e3e026064559267a8e7979980a96196\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\0efeb10e5e6702a1c3dd66ee8ef647c026ec8362\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\9cfcd0ede9e6170fe962ade464e9a870ed00f3fb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Feroz Amjath\.android\build-cache\eeeb1042d00714ee67afb19552c52630269fc5ad\output\AndroidManifest.xml:5:5-19
+	android:label
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:14:9-40
+activity#amjath.purosh.zencode.IssuesActivity
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:15:9-16:20
+	android:name
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:15:19-49
+activity#amjath.purosh.zencode.CommentsActivity
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:17:19-51
+activity#amjath.purosh.zencode.MainActivity
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\39f0b15523f3ccf2a6dfc6342db615f8096e1b3c\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\0bc332c9caf71b662541e573b3dd36291a1849e4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\f3694c182a278d6e5cd4eada0d498ef5011b135d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\789ed259a8ff8e309ed1e983d1791d75f7f4261f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\a7e53851b23ab8d0b144222b08f7474004dfb50d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\9b96ca29c78d55ef1d91f36d1d634d6f3a213a2f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\d6a34ba8a5db27cfac7b342f9b701179e96abe5c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\925baa32e58f83465e1cdc9ee493139b232446f2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\af19902ab183c40a9e8d6955b4d5a18b343f6975\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\a5c296941e3e026064559267a8e7979980a96196\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\0efeb10e5e6702a1c3dd66ee8ef647c026ec8362\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\9cfcd0ede9e6170fe962ade464e9a870ed00f3fb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Feroz Amjath\.android\build-cache\eeeb1042d00714ee67afb19552c52630269fc5ad\output\AndroidManifest.xml:3:5-72
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\39f0b15523f3ccf2a6dfc6342db615f8096e1b3c\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project Backup\Android Projects\ZenCode\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\39f0b15523f3ccf2a6dfc6342db615f8096e1b3c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\0bc332c9caf71b662541e573b3dd36291a1849e4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\f3694c182a278d6e5cd4eada0d498ef5011b135d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\789ed259a8ff8e309ed1e983d1791d75f7f4261f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\a7e53851b23ab8d0b144222b08f7474004dfb50d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\9b96ca29c78d55ef1d91f36d1d634d6f3a213a2f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\d6a34ba8a5db27cfac7b342f9b701179e96abe5c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\925baa32e58f83465e1cdc9ee493139b232446f2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\af19902ab183c40a9e8d6955b4d5a18b343f6975\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\a5c296941e3e026064559267a8e7979980a96196\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\0efeb10e5e6702a1c3dd66ee8ef647c026ec8362\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\9cfcd0ede9e6170fe962ade464e9a870ed00f3fb\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\39f0b15523f3ccf2a6dfc6342db615f8096e1b3c\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Feroz Amjath\.android\build-cache\39f0b15523f3ccf2a6dfc6342db615f8096e1b3c\output\AndroidManifest.xml:26:9-47

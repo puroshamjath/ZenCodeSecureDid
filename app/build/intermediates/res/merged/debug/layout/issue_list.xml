@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lnrView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:padding="10dp"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <amjath.purosh.zencode.utils.CircularImageView
+            android:id="@+id/imgAvatar"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txtUsername"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:textColor="#3fc2d6"
+                android:text="bryant1410" />
+
+            <TextView
+                android:id="@+id/txtUpdatedDate"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="3dp"
+                android:layout_height="wrap_content"
+                android:textColor="#7a8e97"
+                android:textSize="12dp"
+                android:layout_below="@+id/txtUsername"
+                android:text="bryant1410" />
+
+            <TextView
+                android:id="@+id/txtIssueTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:textColor="#656665"
+                android:layout_below="@+id/txtUpdatedDate"
+                android:text="bryant1410" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtDescription"
+        android:textSize="15dp"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#656665"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtUserId"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtIssueId"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtCommentsUrl"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtCreatedDate"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

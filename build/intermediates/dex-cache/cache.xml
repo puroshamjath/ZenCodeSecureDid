@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Feroz Amjath\.android\build-cache\9b96ca29c78d55ef1d91f36d1d634d6f3a213a2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Project Backup\Android Projects\ZenCode\app\build\intermediates\pre-dexed\debug\classes_df30830e383a2fb6fb3feca923330022b9d9f08c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Feroz Amjath\.android\build-cache\eeeb1042d00714ee67afb19552c52630269fc5ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\Project Backup\Android Projects\ZenCode\app\build\intermediates\pre-dexed\debug\classes_85a0c08ad4727ebb6b3e7a19948afed0c14fe2b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Feroz Amjath\.android\build-cache\a7e53851b23ab8d0b144222b08f7474004dfb50d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Project Backup\Android Projects\ZenCode\app\build\intermediates\pre-dexed\debug\classes_3f5e1e4058e498fb657f785237c645f5cea16e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Feroz Amjath\.android\build-cache\39f0b15523f3ccf2a6dfc6342db615f8096e1b3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Project Backup\Android Projects\ZenCode\app\build\intermediates\pre-dexed\debug\classes_624c8eaddfde8358541b96176358729cf0567c7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Feroz Amjath\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="D:\Project Backup\Android Projects\ZenCode\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_16aac4495550d8839948ef91dbbf2938d26cc5cc.jar" />
+    </item>
+
+</items>
